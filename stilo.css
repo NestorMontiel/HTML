@@ -1,0 +1,35 @@
+
+body {min-height: 100vh;
+
+                              }
+header {
+	height: height:100px;
+	background-color: green;
+                             }
+section {
+	height: 420px;
+	width: 79.5%;
+	display: inline-block;
+	background-color: blue;
+
+                             }
+aside{height: 420px; 
+	width: 20%;
+	display: inline-block;
+	background-color: yellow;
+
+
+
+
+
+                              }
+footer{
+	height: 100px;
+	background-color: orange;
+
+
+
+
+
+          
+                              }
